@@ -71,4 +71,4 @@ To identify high-risk customer segments and behavioral triggers that contribute 
 ## 👤 Author
 
 **Phan Thị Định**  
-📂 GitHub: [github.com/phandinh0308](https://github.com/phandinh0308)
+📂 GitHub: [github.com/phandinh0308] (https://github.com/phandinh0308/customer-churn-analysis))
